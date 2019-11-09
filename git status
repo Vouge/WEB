@@ -1,0 +1,97 @@
+[33ma3aeff1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: Added style to variable.html
+[33m8aa2c0e[m HEAD@{1}: commit: Added variable.html
+[33mc3a9a0d[m HEAD@{2}: commit: Added alert.html
+[33m8a059ed[m HEAD@{3}: commit: Added columns1 file
+[33m0243e2b[m HEAD@{4}: commit: Added column file
+[33m59808e0[m HEAD@{5}: commit: Added bootstrap file
+[33m07f8eb2[m HEAD@{6}: commit: Added file with no bootstrap
+[33m2af46d3[m HEAD@{7}: commit: Added grid.html
+[33mfa8874c[m HEAD@{8}: commit: Added flexbox
+[33m2ec8da8[m HEAD@{9}: commit: Updated responsive0.html
+[33m419c9ce[m HEAD@{10}: commit: Added responsive1.html
+[33md36fed9[m HEAD@{11}: commit: Added responsive0.html
+[33m99150cc[m HEAD@{12}: commit: Updated print.html
+[33md02b488[m HEAD@{13}: commit: Added print.html
+[33mc3f30f8[m HEAD@{14}: commit: Addded Selection
+[33m78cb738[m HEAD@{15}: commit: Added before file
+[33m40e5019[m HEAD@{16}: commit: Added chilt
+[33md1aafbd[m HEAD@{17}: commit: Changes in decendent
+[33mea0c8e9[m HEAD@{18}: commit: Added hover file
+[33mcbdb76d[m HEAD@{19}: commit: Added attribute.html
+[33m3018a50[m HEAD@{20}: commit: Updated decendent
+[33m848b842[m HEAD@{21}: commit: Updated decendent
+[33mb48481f[m HEAD@{22}: commit: Updated decendent
+[33m29985eb[m HEAD@{23}: commit: Updated Multiple
+[33m3038c09[m HEAD@{24}: commit: Added Decendent file
+[33m2b9cad4[m HEAD@{25}: commit: updated Multiple
+[33m6417018[m HEAD@{26}: commit: Added Multiple
+[33m25878ea[m HEAD@{27}: checkout: moving from feature2 to master
+[33mcb877fd[m[33m ([m[1;31morigin/feature2[m[33m, [m[1;32mfeature2[m[33m)[m HEAD@{28}: checkout: moving from master to feature2
+[33m25878ea[m HEAD@{29}: commit (merge): Added branch file
+[33mc6c1106[m HEAD@{30}: checkout: moving from feature2 to master
+[33mcb877fd[m[33m ([m[1;31morigin/feature2[m[33m, [m[1;32mfeature2[m[33m)[m HEAD@{31}: checkout: moving from master to feature2
+[33mc6c1106[m HEAD@{32}: commit: Updated form
+[33m4395f38[m HEAD@{33}: commit: Added link1 file
+[33m8f03eb2[m HEAD@{34}: commit: Added link0
+[33m0b7702c[m HEAD@{35}: commit: Added master branch2 file
+[33mca291a2[m HEAD@{36}: checkout: moving from feature2 to master
+[33mcb877fd[m[33m ([m[1;31morigin/feature2[m[33m, [m[1;32mfeature2[m[33m)[m HEAD@{37}: commit: Added stop style
+[33m138afc1[m HEAD@{38}: checkout: moving from master to feature2
+[33mca291a2[m HEAD@{39}: commit: Added stop style
+[33md526880[m HEAD@{40}: checkout: moving from feature2 to master
+[33m138afc1[m HEAD@{41}: commit: Added feature2 line
+[33md526880[m HEAD@{42}: checkout: moving from master to feature2
+[33md526880[m HEAD@{43}: commit: Added branch2 master
+[33m8ea84e4[m[33m ([m[1;32mfeature[m[33m)[m HEAD@{44}: checkout: moving from master to master
+[33m8ea84e4[m[33m ([m[1;32mfeature[m[33m)[m HEAD@{45}: merge feature: Fast-forward
+[33m4ae55fb[m HEAD@{46}: checkout: moving from feature to master
+[33m8ea84e4[m[33m ([m[1;32mfeature[m[33m)[m HEAD@{47}: checkout: moving from master to feature
+[33m4ae55fb[m HEAD@{48}: checkout: moving from feature to master
+[33m8ea84e4[m[33m ([m[1;32mfeature[m[33m)[m HEAD@{49}: commit: Added another line
+[33m4ae55fb[m HEAD@{50}: checkout: moving from master to feature
+[33m4ae55fb[m HEAD@{51}: commit: Added master file
+[33m550f293[m HEAD@{52}: commit: Changed background
+[33m70113aa[m HEAD@{53}: pull: Fast-forward
+[33mfc5b554[m HEAD@{54}: reset: moving to fc5b5548
+[33m1625eed[m HEAD@{55}: checkout: moving from feature to master
+[33mb8f05e3[m HEAD@{56}: commit: Added branch feature
+[33m92cb654[m HEAD@{57}: checkout: moving from master to feature
+[33m1625eed[m HEAD@{58}: commit (merge): Added hte branch
+[33m30c2cf4[m HEAD@{59}: checkout: moving from feature to master
+[33m92cb654[m HEAD@{60}: commit: Added Branch feature
+[33mc6df764[m HEAD@{61}: checkout: moving from feature to feature
+[33mc6df764[m HEAD@{62}: checkout: moving from master to feature
+[33m30c2cf4[m HEAD@{63}: checkout: moving from feature to master
+[33mc6df764[m HEAD@{64}: checkout: moving from master to feature
+[33m30c2cf4[m HEAD@{65}: commit: Added yet another line
+[33mb53375b[m HEAD@{66}: checkout: moving from feature to master
+[33mc6df764[m HEAD@{67}: checkout: moving from master to feature
+[33mb53375b[m HEAD@{68}: checkout: moving from feature to master
+[33mc6df764[m HEAD@{69}: commit: Added branch line
+[33m0fc10ab[m HEAD@{70}: commit: Added another line
+[33mfc5b554[m HEAD@{71}: checkout: moving from master to feature
+[33mb53375b[m HEAD@{72}: commit: Added Branch file
+[33mfc5b554[m HEAD@{73}: checkout: moving from feature to master
+[33mfc5b554[m HEAD@{74}: checkout: moving from master to feature
+[33mfc5b554[m HEAD@{75}: commit: Added division
+[33m4e45476[m HEAD@{76}: commit: Style2 css added
+[33m61137e8[m HEAD@{77}: commit: Style2 added
+[33meb2b865[m HEAD@{78}: commit: Added Size
+[33m28928c0[m HEAD@{79}: commit: Added font
+[33m2f3abfa[m HEAD@{80}: commit: Added border
+[33m36abb1c[m HEAD@{81}: commit: CSS included
+[33mab15bb7[m HEAD@{82}: commit: Color Update
+[33m4f9d411[m HEAD@{83}: commit: Recent Updates
+[33me84f10b[m HEAD@{84}: commit: Content
+[33m11e4a35[m HEAD@{85}: commit: 2nd Updated List
+[33m67e1ec5[m HEAD@{86}: commit: Updated Lists
+[33m436b452[m HEAD@{87}: commit: Added Lists
+[33m35172fe[m HEAD@{88}: commit: Added Headings
+[33m7b84e1c[m HEAD@{89}: reset: moving to 7b84e1caff
+[33m2c1a862[m HEAD@{90}: reset: moving to 2c1a862be140d
+[33m7b84e1c[m HEAD@{91}: commit (merge): Resolved merge conflicts
+[33mbfa9108[m HEAD@{92}: commit: Added a 3rd line
+[33mdcfa121[m HEAD@{93}: pull: Merge made by the 'recursive' strategy.
+[33m3641132[m HEAD@{94}: commit: merged changes from master
+[33m2c1a862[m HEAD@{95}: commit: Added hello.html
+[33m4a35b71[m HEAD@{96}: clone: from https://github.com/Vouge/WEB
