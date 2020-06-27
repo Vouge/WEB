@@ -17,4 +17,5 @@ def hello(name):
     names = name.split(" ")
     for name in names:
         name1 += name.capitalize() + " "
+    name1 = name1.strip()
     return f"Hello, {name1}!"
